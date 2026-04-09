@@ -23,7 +23,7 @@ How to use:
         source venv/bin/activate
 
 3. Run the script with:
-     python burp_walk_parse.py--dir /path/to/folder
+     python3 burp_walk_parse.py --dir /path/to/folder
 
 4. Additional flags you can use:
      --out OUTPUT        - Create a wordlist text file of top-level paths
