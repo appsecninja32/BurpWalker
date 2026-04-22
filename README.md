@@ -1,9 +1,10 @@
 # Burp Walker
-
+<p align="center"\>
   <a href="https://buymeacoffee.com/appsecninja32" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+</p>
 
 <p align="center"\>
-<img src="images/logo.png" alt="Burp Walker Logo" width="250">
+<img src="images/burpWalker.png" alt="Burp Walker Logo" width="250">
 </p>
 
 **Burp Walker** (`burp_walk_parse.py`) is a reconnaissance utility designed to transform stagnant HTTP exports into actionable intelligence. By recursively scanning directories of project files and traffic captures, it extracts, normalizes, and categorizes endpoints to build frequency-based wordlists tailored to your target's actual architecture.
