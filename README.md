@@ -1,9 +1,3 @@
-To finish your README, we need the exact filename of the image you uploaded to the `images` folder (for example, `logo.png` or `burp-walker-logo.jpg`).
-
-Assuming the file is named **`logo.png`**, here is the fully updated and professionally formatted `README.md` file. You can copy and paste this directly into your GitHub project.
-
------
-
 # Burp Walker
 
 \<p align="center"\>
